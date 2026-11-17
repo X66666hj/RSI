@@ -1,0 +1,10 @@
+{
+  "task": "example-EVO-1",
+  "reproductions": [
+    {
+      "historical_score": 0,
+      "repaired_score": 1,
+      "evidence": "Replace with the actual isolated replay and observed outcome for a confirmed Train failure."
+    }
+  ]
+}

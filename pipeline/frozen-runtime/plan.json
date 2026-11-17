@@ -1,0 +1,9 @@
+{
+  "solver_budget": {
+    "label": "skill-abc-64k-90min-240steps",
+    "max_steps": 240,
+    "max_tokens_per_request": 65536,
+    "agent_wall_timeout_seconds": 5400,
+    "agent_sdk_request_timeout_seconds": 5340
+  }
+}

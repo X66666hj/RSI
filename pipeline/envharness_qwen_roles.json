@@ -1,0 +1,21 @@
+{
+  "base_url": "https://token-plan.maas.qianwenaiapi.com/compatible-mode/v1",
+  "roles": {
+    "solver": {
+      "model": "qwen3.8-flash",
+      "enable_thinking": true
+    },
+    "envrigger_generate_and_revise": {
+      "model": "qwen3.8-max"
+    },
+    "evl_causal_attribution": {
+      "model": "qwen3.8-max"
+    },
+    "abc_skill_update": {
+      "model": "qwen3.8-max"
+    },
+    "component_and_skill_decision": {
+      "model": "jev-1.14.0"
+    }
+  }
+}
